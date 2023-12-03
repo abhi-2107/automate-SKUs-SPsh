@@ -1,0 +1,4 @@
+Sample command:
+
+npm start -- -s "500w 400w"
+node index.js -s 500w 400w
